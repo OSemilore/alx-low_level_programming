@@ -1,8 +1,5 @@
-5. strstr
+6. Chess is mental torture
 mandatory
-Write a function that locates a substring.
+Write a function that prints the chessboard.
 
-Prototype: char *_strstr(char *haystack, char *needle);
-The _strstr() function finds the first occurrence of the substring needle in the string haystack. The terminating null bytes (\0) are not compared
-Returns a pointer to the beginning of the located substring, or NULL if the substring is not found.
-
+Prototype: void print_chessboard(char (*a)[8]);
