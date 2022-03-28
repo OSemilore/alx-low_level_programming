@@ -1,5 +1,3 @@
-6. Chess is mental torture
+7. The line of life is a ragged diagonal between duty and desire
 mandatory
-Write a function that prints the chessboard.
-
-Prototype: void print_chessboard(char (*a)[8]);
+Write a function that prints the sum of the two diagonals of a square matrix of integers.
