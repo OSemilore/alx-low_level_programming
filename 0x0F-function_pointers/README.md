@@ -1,1 +1,1 @@
-0. What's my name
+2. To hell with circumstances; I create opportunities
