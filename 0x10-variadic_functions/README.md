@@ -1,1 +1,1 @@
-another woman's variable
+value of a variable
