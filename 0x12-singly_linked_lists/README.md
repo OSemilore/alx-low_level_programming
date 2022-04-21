@@ -1,1 +1,1 @@
-the hare and the tortoise
+real programmers can write assembly code in any language
