@@ -1,1 +1,1 @@
-print list
+list length
