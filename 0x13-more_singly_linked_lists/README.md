@@ -1,1 +1,1 @@
-print safe version
+free
